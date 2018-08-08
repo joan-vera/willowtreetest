@@ -2,10 +2,14 @@
 Here are the items that have been done:
 
 Consume API data - Done
-Return back 6 random users - Done with one selected
-Statistics - done
-Matt mode ++: made it so that multiple names can be returned : 'Jo' 'Matt'
 
+Return back 6 random users - Done with one selected
+
+Guess mode: provide an ID and a name,updates stats, and returns whether the guess was right or wrong
+
+Statistics - Done at a high level.
+
+Matt mode ++: made it so that multiple names can be returned : 'Jo' 'Matt'
 
 Since I decided to do this in Springboot, I did a lot of the testing in the brower and didn't create the unit tests. 
 
